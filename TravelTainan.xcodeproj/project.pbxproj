@@ -56,7 +56,7 @@
 		B251FEA220960C6700C140B1 = {
 			isa = PBXGroup;
 			children = (
-				B251FEAD20960C6700C140B1 /* TravelHsinchu */,
+				B251FEAD20960C6700C140B1 /* TravelTainan */,
 				B251FEAC20960C6700C140B1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -69,7 +69,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B251FEAD20960C6700C140B1 /* TravelHsinchu */ = {
+		B251FEAD20960C6700C140B1 /* TravelTainan */ = {
 			isa = PBXGroup;
 			children = (
 				B251FEAE20960C6700C140B1 /* AppDelegate.swift */,
@@ -88,7 +88,7 @@
 				B251FECE209628E600C140B1 /* HotelDetailViewController.swift */,
 				B251FECA2096215E00C140B1 /* InfoMainViewController.swift */,
 			);
-			path = TravelHsinchu;
+			path = TravelTainan;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -310,7 +310,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = W5GT4PG935;
-				INFOPLIST_FILE = TravelHsinchu/Info.plist;
+				INFOPLIST_FILE = TravelTainan/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -329,7 +329,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = W5GT4PG935;
-				INFOPLIST_FILE = TravelHsinchu/Info.plist;
+				INFOPLIST_FILE = TravelTainan/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
